@@ -1,0 +1,43 @@
+{
+  "version": "2025.0",
+  "command": {
+    "type": "sequential",
+    "data": {
+      "commands": [
+        {
+          "type": "path",
+          "data": {
+            "pathName": "PickUpArrival"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "ROLLERSIN"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "PickUpComplete1"
+          }
+        },
+        {
+          "type": "path",
+          "data": {
+            "pathName": "ShootReady1"
+          }
+        },
+        {
+          "type": "named",
+          "data": {
+            "name": "Shooter"
+          }
+        }
+      ]
+    }
+  },
+  "resetOdom": true,
+  "folder": null,
+  "choreoAuto": false
+}

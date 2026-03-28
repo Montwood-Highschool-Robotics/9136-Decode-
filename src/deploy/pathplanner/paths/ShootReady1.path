@@ -1,0 +1,86 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 7.743,
+        "y": 2.3619454329774614
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 7.807555160142348,
+        "y": 1.3398220640569392
+      },
+      "isLocked": false,
+      "linkedName": "PickUpComplete1"
+    },
+    {
+      "anchor": {
+        "x": 6.182716488730724,
+        "y": 0.5974377224199281
+      },
+      "prevControl": {
+        "x": 7.98329609989838,
+        "y": 0.43667168570852966
+      },
+      "nextControl": {
+        "x": 4.375172004744959,
+        "y": 0.7588256227758008
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 3.116346381969158,
+        "y": 0.9417319098457893
+      },
+      "prevControl": {
+        "x": 3.4713997627520765,
+        "y": 0.43604982206405685
+      },
+      "nextControl": {
+        "x": 2.6956399952680514,
+        "y": 1.5409197939352444
+      },
+      "isLocked": false,
+      "linkedName": null
+    },
+    {
+      "anchor": {
+        "x": 2.5138315539739033,
+        "y": 2.168279952550415
+      },
+      "prevControl": {
+        "x": 2.1695373665480435,
+        "y": 1.7056346381969147
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "ShootReady1"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 48.70308797824679
+  },
+  "reversed": false,
+  "folder": null,
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 90.0
+  },
+  "useDefaultConstraints": true
+}
