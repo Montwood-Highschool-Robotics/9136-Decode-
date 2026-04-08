@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 7.004092261904762,
+        "y": 3.5651785714285715
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 7.36298363095238,
+        "y": 2.553757440476191
+      },
+      "isLocked": false,
+      "linkedName": "PickUpComplete1"
+    },
+    {
+      "anchor": {
+        "x": 5.783861607142857,
+        "y": 0.6157440476190481
+      },
+      "prevControl": {
+        "x": 5.439567419716997,
+        "y": 0.1530987332655478
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": "DONTKILLTHEHOPPERPLSSSSSS1"
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 1.3639275316029096
+  },
+  "reversed": false,
+  "folder": null,
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 92.75689670415517
+  },
+  "useDefaultConstraints": true
+}
