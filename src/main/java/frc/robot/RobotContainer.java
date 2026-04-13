@@ -249,8 +249,9 @@ public class RobotContainer
 
 
 // AIM YOU FOOL
-
-
+// Link to the Photonvision client
+// http://photonvision.local:5800/#/dashboard 
+     
   driverPS5.R1().whileTrue(drivebase.aimAtBestTagTeleopCommand(driverPS5, camera));
 
 
