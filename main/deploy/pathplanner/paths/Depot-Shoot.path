@@ -1,0 +1,54 @@
+{
+  "version": "2025.0",
+  "waypoints": [
+    {
+      "anchor": {
+        "x": 0.5681455190771956,
+        "y": 5.50374445430346
+      },
+      "prevControl": null,
+      "nextControl": {
+        "x": 0.38239239662008884,
+        "y": 5.70317231202451
+      },
+      "isLocked": false,
+      "linkedName": "Home-Depot"
+    },
+    {
+      "anchor": {
+        "x": 1.262,
+        "y": 4.877
+      },
+      "prevControl": {
+        "x": 1.0930609588970532,
+        "y": 5.100602624183235
+      },
+      "nextControl": null,
+      "isLocked": false,
+      "linkedName": null
+    }
+  ],
+  "rotationTargets": [],
+  "constraintZones": [],
+  "pointTowardsZones": [],
+  "eventMarkers": [],
+  "globalConstraints": {
+    "maxVelocity": 3.0,
+    "maxAcceleration": 3.0,
+    "maxAngularVelocity": 540.0,
+    "maxAngularAcceleration": 720.0,
+    "nominalVoltage": 12.0,
+    "unlimited": false
+  },
+  "goalEndState": {
+    "velocity": 0,
+    "rotation": 158.9399041573203
+  },
+  "reversed": false,
+  "folder": null,
+  "idealStartingState": {
+    "velocity": 0,
+    "rotation": 179.9508407091272
+  },
+  "useDefaultConstraints": true
+}
